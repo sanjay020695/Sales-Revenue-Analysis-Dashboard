@@ -23,7 +23,6 @@ An executive-ready, high-interactive Power BI dashboard designed to analyze 6 mo
 
 ## 🛠️ Tech Stack & Tools Used
 * **Platform:** Microsoft Power BI Desktop
-* **UI/UX Layout:** Customized Canva Layout with a modern Deep Navy & Light Blue theme (`#030C23` background with accented glowing visual frames).
 * **Data Source:** CSV (Mock Sales & Revenue Dataset)
 * **Calculations:** DAX (Data Analysis Expressions)
 
